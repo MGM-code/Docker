@@ -4,6 +4,7 @@ WORKDIR /app
 
 COPY requirements.txt /app
 RUN pip install -r requirements.txt
+RUN install -y nano
 
 COPY app.py /app
 

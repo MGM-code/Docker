@@ -14,3 +14,4 @@ VALUES ('Malbec', 'Tinto'),
        ('Syrah', 'Tinto'),
        ('Chenin', 'Blanco'),
        ('Chardonnay', 'Blanco');
+       ('Garnacha', 'Tinto');
